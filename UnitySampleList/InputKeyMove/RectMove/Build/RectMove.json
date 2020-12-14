@@ -1,0 +1,16 @@
+{
+"companyName": "RyukyuGameKobo",
+"productName": "Unity_Sample_PlayerController",
+"productVersion": "1",
+"dataUrl": "RectMove.data.unityweb",
+"wasmCodeUrl": "RectMove.wasm.code.unityweb",
+"wasmFrameworkUrl": "RectMove.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
